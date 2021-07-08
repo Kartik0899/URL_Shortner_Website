@@ -25,11 +25,11 @@ body{
           width: 100%;
       }
   }
-  @media (max-width: 600px){
-      body{
-            width: 95vw;
-      }
-  }
+//   @media (max-width: 600px){
+//       body{
+//             width: 95vw;
+//       }
+//   }
 `;
 
 export default GlobalStyle;
